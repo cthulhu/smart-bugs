@@ -1,0 +1,36 @@
+// name of the map
+#name=Second Map And The buttle return
+// Number of bugs
+#num_of_bugs=4
+// name of all bugs
+#1=Vasya
+#2=Sveta
+#3=Kolya
+#4=Sanyok
+// the map
+// symbols on the map:
+// & - the wall
+// @ - exit
+// * - food for bug
+// $ - bug's trace
+#map=
+&&&&&&&&&@&&&&&&&&&&&&&&&&&&&&&&&&&
+&                                *&        
+&3&           *&              &   &
+& & &&&&&&&&&&&&&&&&&&&&&&&&  &   &
+& & &                      &  &   &
+&*& &               2   &&&&  &   &
+& & &                   &     &   &
+& & & 4                 &   &&&   &
+& & &    &&     &&&&&&&&&   &     &
+& & &    &&     &           &     &
+& & &    *      &           &     &
+& & &           &           &     &
+& & &           &        &&&&     &
+& & &           &&&&& &&&&        &
+& & &              *& &* &    1   &
+& & &&&&&&&         & &  &        &
+& &      *&         &    &        &
+& &&      &&&       &&&&&&        &
+&  *       *                      &
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

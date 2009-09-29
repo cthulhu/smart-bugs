@@ -1,0 +1,135 @@
+/*
+    author - Stan (mail-to: stas@mymail.bz)
+*/
+/*
+    styles for page's body
+*/
+BODY
+{
+    FONT-FAMILY: sans-serif
+    FONT-SIZE: 12pt;
+}
+/*
+    all tables's data
+*/
+/*
+    all tables's rows
+*/
+TD
+{
+    FONT-FAMILY: Times, sans-serif; 
+    FONT-SIZE: 12pt;
+}
+/*
+    all paragraphs
+*/
+P,li
+{
+
+    FONT-FAMILY: Times, sans-serif; 
+    FONT-SIZE: 12pt; 
+    line-height: normal;
+    margin-top:6pt;
+    margin-bottom:0pt;
+    COLOR:#001010;
+
+}
+/*
+    header1
+*/
+H1
+{
+    FONT-FAMILY: Arial,sans-serif;
+    COLOR:#0060a1;
+    FONT-SIZE: 18pt; 
+    text-align:center;
+    
+}
+/*
+    header2
+*/
+H2{
+
+    COLOR: #2080c1;
+    FONT-FAMILY: Arial, sans-serif; 
+    FONT-SIZE: 16pt;
+    text-align:left;
+}
+/*
+    header3
+*/
+H3{
+
+    COLOR:  #40a0e1;
+    FONT-FAMILY: Arial, sans-serif;  
+    FONT-SIZE:14pt;
+    text-align:center;
+}
+/*
+    header4
+*/
+H4
+{
+    COLOR: #60c0f1;
+    FONT-FAMILY: Arial, sans-serif;
+    FONT-SIZE: 14pt; 
+    font-weight:normal;
+    text-align:Left;
+}
+/*
+    header5
+*/
+H5
+{
+    COLOR: #60c0f1;
+    FONT-FAMILY: Arial, sans-serif;
+    FONT-SIZE:14pt;
+    text-decoration:underline;font-weight:normal;
+}
+/*
+    header6
+*/
+H6
+{
+    
+    COLOR: #60c0f1; 
+    FONT-FAMILY: Arial, sans-serif;
+    FONT-SIZE: 8pt; 
+    text-align:left;
+    text-decoration:none;
+    BORDER: #000000 1px solid;
+    background:#ffffdd;
+    text-align:Center;
+}
+a
+{
+    
+    COLOR:#004081; 
+    FONT-FAMILY: Times, sans-serif; 
+    FONT-SIZE:12pt;
+    text-decoration:underline;
+    font-weight:normal;
+    text-align:left;
+}
+a:hover
+{
+    
+    COLOR: #60c0f1;
+    FONT-FAMILY: Times, sans-serif; 
+    FONT-SIZE:12pt;text-decoration:underline;
+    font-weight:normal;
+    
+}
+b
+{
+    COLOR: #006060; 
+    FONT-FAMILY: Times, sans-serif; 
+    FONT-SIZE: 12pt; 
+}
+em
+{
+    COLOR: #606000; 
+    FONT-FAMILY: Times, sans-serif; 
+    FONT-SIZE: 12pt; 
+
+}
